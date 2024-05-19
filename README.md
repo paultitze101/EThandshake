@@ -4,7 +4,7 @@ interstellar probes making contact with an alien probe or ETI is extremely low i
 
 https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/
 
-How would a human made interstellar probe with AI onboard communicate with an alien probe?
+How would a human made interstellar probe with AI onboard communicate with an alien probe or ExtraTerrestrial Intelligence (ETI)?
 
 According to Google Gemini AI:
 
