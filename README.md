@@ -26,6 +26,6 @@ The vastness of space and the potential for completely different technological a
 
 Well then, onwards and upwards, get some Python happening!
 
-Cheers, Paul Titze.
+Cheers, Paul Titze.</BR>
 https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/
 
