@@ -2,8 +2,6 @@ This project stems from my interest in the mathematics and protocol theory of ho
 light or other signals that it may encounter in its voyages through interstellar space and how this would be implemented via Python code into the onboard AI computer system. The chances of one of our 
 interstellar probes making contact with an alien probe or ETI is extremely low in our interstellar neighbourhood hence this is an interest from an academic point of view. 
 
-https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/
-
 How would a human made interstellar probe with AI onboard communicate with an alien probe or ExtraTerrestrial Intelligence (ETI)?
 
 According to Google Gemini AI:
@@ -28,4 +26,6 @@ The vastness of space and the potential for completely different technological a
 
 Well then, onwards and upwards, get some Python happening!
 
-Cheers, Paul.
+Cheers, Paul Titze.
+https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/
+
