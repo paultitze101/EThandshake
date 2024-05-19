@@ -25,3 +25,7 @@ The AI on the human probe could analyze the alien probe's transmissions (radio w
 5. Patience and Trial and Error:
 The process would likely be slow and involve a lot of trial and error. Both probes would need to be programmed to be patient and persistent in their attempts to decipher each other's signals.
 The vastness of space and the potential for completely different technological advancements make true "conversation" a challenge. However, the methods above offer a glimpse into how these probes might attempt to establish a basic understanding and initiate communication.
+
+Well then, get some Python happening!
+
+Cheers, Paul.
